@@ -1,0 +1,363 @@
+@media (max-width: 1045px) {
+    .small {
+        display: none;
+    }
+
+    .navigation {
+        justify-content: center;
+        gap: 0px;
+    }
+}
+
+@media (max-width: 975px) {
+    .users {
+        display: none;
+    }
+}
+
+@media (max-width: 815px) {
+    .right {
+        display: none;
+    }
+
+    .ooooooo {
+        display: none;
+    }
+    
+    .sec a {
+        margin-right: 15px;
+    }
+
+    .sidebar {
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .main {
+        display: flex;
+        justify-content: center;
+        justify-items: center;
+        align-content: center;
+        align-items: center;
+    }
+
+    .profile {
+        margin-bottom: 15px;
+    }
+
+    .main-side {
+        width: 300px;
+        height: 327px;
+    }
+}
+
+
+@media (max-width: 610px) {
+    .make1 form {
+        width: 350px;
+    }
+
+    #post-desc {
+        width: 237px;
+    }
+
+    .container {
+        width: 350px;
+    }
+
+    .default-Img {
+        margin-top: 13px;
+    }
+
+    .main-side {
+        width: 178px;
+        height: 305px;
+    }
+
+    .last {
+        margin: 0px;
+    }
+
+    .links a {
+        margin-bottom: 25px;
+    }
+
+    .sidebar {
+        height: 450px;
+    }
+
+    .sec a {
+        margin-right: 10px;
+    }
+}
+
+@media (max-width: 520px) {
+    .each {
+        width: 350px;
+    }
+
+    .btns {
+        gap: 7px;
+    }
+
+    #input {
+        width: 181px;
+    }
+
+    .back {
+        top: 10px;
+    }
+
+    .iio {
+        margin-top: 130px;
+    }
+}
+
+@media (max-width: 610px) {
+    .deit {
+        width: 351px;
+    }
+}
+
+@media (max-width: 650px) {
+    .k-main {
+        width: 340px;
+    }
+}
+
+@media (max-width: 445px) {
+    .sssssssssssssssss {
+        font-size: 1.7em;
+    }
+}
+
+@media (max-width: 1120px) {
+    .gg {
+        width: 71.6%;
+    }
+                .ui-user {
+                    gap: 200px;
+                }
+}
+
+@media (max-width: 1085px) {
+    .gg {
+        width: 69.6%;
+    }
+
+    .ui-user {
+        gap: 200px;
+    }
+}
+
+@media (max-width: 1018px) {
+    .main2 {
+        flex-direction: column;
+
+    }
+
+    .ll {
+
+        width: 80%;
+        height: 420px;
+        margin-bottom: 14px;
+    }
+
+    .for-users {
+        width: 260px;
+    }
+
+    .gg {
+        width: 79.9%;
+        height: 54%;
+    }
+
+    .view-msg {
+        height: 39vh;
+    }
+
+    #create {
+        width: 300px;
+    }
+
+    .ui-user {
+        gap: 240px;
+    }
+
+    .user-veiw {
+        width: 314px;
+    }
+
+    .low {
+        height: 24vh;
+    }
+
+    .m1, .m2 {
+        width: 124px;
+        padding: 7px;
+    }
+
+    .users90 {
+        display: grid;
+        grid-template-columns: repeat(2, auto);
+        gap: 0px 10px;
+        justify-content: center;
+        align-items: center;
+        align-content: space-evenly;
+        justify-items: center;
+    }
+
+    .serch {
+        height: 65px;
+    }
+
+    .main2 {
+        height: 153vh;
+    }
+
+
+}
+
+@media (max-width: 785px) {
+    .ui-user {
+        gap: 10px;
+    }
+}
+
+@media (max-width: 765px) {
+    .users90 {
+        display: flex;
+        justify-content: flex-start;
+    }
+
+    .ll {
+        height: 490px;
+    }
+}
+
+@media (max-width: 480px) {
+
+    .isFrint {
+        display: none;
+    }
+
+    .user-veiw {
+        height: 72%;
+    }
+
+}
+
+@media (max-width: 580px) {
+    #create {
+        width: 220px;
+    }
+}
+
+@media (max-width: 480px) {
+    #create {
+        width: 150px;
+    }
+}
+
+
+@media (max-width: 391px) {
+    #sender {
+        width: 72px;
+    }
+}
+
+@media (max-width: 1050px) {
+    .center {
+        flex-direction: column !important;
+        height: 169vh !important;
+    }
+
+    .tt 
+    {
+        margin: 0px !important;
+    }
+
+    .cool {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .yy {
+        width: 355px !important;
+    }
+
+    .rr {
+        width: 178px !important;
+    }
+
+    .m img {
+        margin-top: -10px !important;
+    }
+
+    .big 
+    {
+        width: 77% !important;
+    }
+
+    .back {
+        top: -5px !important;
+    }
+
+    .yyyy {
+        left: 92px;
+    }
+
+
+}
+
+@media (max-width: 1120px) {
+    .dele {
+        display: none;
+    }
+}
+
+@media (max-width: 850px) {
+    .t-users,
+    .t-compos,
+    .t-msg,
+    .t-follow,
+    .t-report, 
+    .t-op
+    {
+        justify-content: left;
+        flex-direction: row;
+        align-items: flex-start;
+            overflow-y: scroll;
+                overflow-x: scroll;
+                height: 315px;
+    }
+
+    .tablsssse {
+        width: 144px;
+    }
+
+        ::-webkit-scrollbar {
+            width: 5px;
+        }
+    
+        /* Track */
+        ::-webkit-scrollbar-track {
+            background: transparent;
+        }
+    
+        /* Handle */
+        ::-webkit-scrollbar-thumb {
+            background: #05111a;
+            border-radius: 50px;
+        }
+}
+
+
+@media (max-width: 525px) {
+    .isFrint {
+        display: none;
+    }
+}

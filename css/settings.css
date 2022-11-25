@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,900;1,300;1,400;1,600;1,900&display=swap');
+
+
+:root {
+    --main-color: #232f3f;
+    --sec-color: #5dccbb;
+    --tex1-color: #949fb3;
+
+    --darkB-color: #05111a;
+    --lighterB-color: #1c4859;
+    --tex2-color: #47B5FF;
+
+    --wight-color: #e8eaec;
+
+    --new1-color: #14297b;
+    --new2-color: #84366f;
+
+}
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    list-style-type: none;
+    transition: all 0.5s ease;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+
+
+body {
+    background-color: #f5f4f5;
+}
+
+.j-main {
+    width: 100vw;
+    height: 72.6vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lklkl {
+    margin: 0;
+}
+
+.k-main {
+    width: 500px;
+    height: 420px;
+    border-radius: 10px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+.inputs-s {
+        width: 245px;
+            padding-left: 15px;
+            padding-right: 15px;
+            background: transparent;
+            border-bottom: 2px solid #1a76ec;
+            border-radius: 7px;
+            height: 30px;
+}
+
+.g-form form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+    margin-bottom: 32px;
+}
+
+.input-o {
+    width: 245px;
+}
+
+.input-o::-webkit-file-upload-button {
+    width: 120px;
+    height: 30px;
+    overflow: hidden;
+    cursor: pointer;
+    background-color: #1a76ec;
+    border: none;
+    border-radius: 50px;
+    color: #f5f4f5;
+    font-size: 1.2em;
+    font-weight: bolder;
+    transition: all 0.5s ease;
+    margin-right: 15px;
+}
+
+.input-o::-webkit-file-upload-button:hover {
+    background-color: #b4b8ba;
+}
+
+.title-90 {
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title-90 .ti {
+    color: #1a76ec;
+    font-weight: bold;
+    font-size: 1.2em
+}
+
+#save {
+        
+            border-radius: 10px;
+            height: 40px;
+            width: 120px;
+            
+            cursor: pointer;        
+            background-color: #1a76ec;
+            color: white;
+}
+
+#save:hover {
+color: #1a76ec;
+background-color: #acd1e4;
+}
+
+.alter {
+  font-weight: lighter;
+  font-size: 1em;
+  color: #b4b8ba;
+}
